@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Calendar, MapPin, Users } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
 
-const TARGET_DATE = new Date("2026-05-15T09:00:00");
+const TARGET_DATE = new Date("2026-03-21T09:00:00");
 
 const useCountdown = (target: Date) => {
   const calc = () => {
