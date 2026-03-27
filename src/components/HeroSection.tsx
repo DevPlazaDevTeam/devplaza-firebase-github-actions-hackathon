@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Calendar, MapPin, Users } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
 
-const TARGET_DATE = new Date("2026-05-15T09:00:00");
+const TARGET_DATE = new Date("2026-03-21T09:00:00");
 
 const useCountdown = (target: Date) => {
   const calc = () => {
@@ -48,7 +48,7 @@ const HeroSection = () => {
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground mb-12">
-          <span className="flex items-center gap-2"><Calendar size={16} className="text-primary" /> May 15–17, 2026</span>
+          <span className="flex items-center gap-2"><Calendar size={16} className="text-primary" /> March 21–22, 2026</span>
           <span className="flex items-center gap-2"><MapPin size={16} className="text-primary" /> San Francisco, CA + Virtual</span>
           <span className="flex items-center gap-2"><Users size={16} className="text-primary" /> 500+ Hackers</span>
         </div>
