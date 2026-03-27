@@ -20,7 +20,7 @@ const days = [
     ],
   },
   {
-    day: "Day 3 — May 17",
+    day: "Day 2 — March 22 (cont.)",
     events: [
       { time: "09:00", title: "Final Submissions" },
       { time: "10:00", title: "Demo Presentations" },
