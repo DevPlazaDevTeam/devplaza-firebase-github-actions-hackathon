@@ -1,6 +1,6 @@
 const days = [
   {
-    day: "Day 1 — May 15",
+    day: "Day 1 — March 21",
     events: [
       { time: "09:00", title: "Check-in & Registration" },
       { time: "10:00", title: "Opening Ceremony & Keynote" },
