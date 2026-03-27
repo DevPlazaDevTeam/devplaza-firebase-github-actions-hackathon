@@ -37,9 +37,9 @@ const HeroSection = () => {
           Registration Open
         </div>
 
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tight mb-6">
-          <span className="text-gradient">HACK</span>
-          <span className="text-foreground">PLAZA</span>
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-black tracking-tight mb-6">
+          <span className="text-gradient">DevPlaza</span>
+          <span className="text-foreground"> Student Hackathon</span>
           <span className="text-gradient"> '26</span>
         </h1>
 
